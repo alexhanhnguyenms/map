@@ -1,0 +1,53 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.SignalR.Client
+@using OpenStreetMap.Components
+@using OpenStreetMap.Services
+@using OpenStreetMap.Models
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JS
+@inject EventService _eventService
+
+@namespace OpenStreetMap.Pages
+
+<PageContainer Title="OpenStreetMap">
+    <Card>
+        <div>
+            <Button OnClick="@(()=>AddItem(DeviceType.CAMERA))" Type="@ButtonType.Primary">Add CAMERA</Button>
+            <Button OnClick="@(()=>AddItem(DeviceType.LED))" Type="@ButtonType.Primary">Add LED</Button>
+            <Button OnClick="@(()=>AddItem(DeviceType.VDS))" Type="@ButtonType.Primary">Add VDS</Button>
+            <Button OnClick="DeleteSelectedItemDrawPoint" Danger Disabled="@(selectedItem==null)">Xóa Item @(selectedItem!=null? selectedItem.Name: string.Empty)</Button>
+            <Button OnClick="ToggleDrawLine">@((isDrawing ? "Kết thúc Vẽ Line" : "Vẽ Line"))</Button>
+        </div>
+        <div style="margin-top: 20px;">
+            <h4>Tọa độ hiện tại của các Item:</h4>
+            <ul>
+                @foreach (var item in items)
+                {
+                    <li>@item.Name: Latitude: @item.Latitude, Longitude: @item.Longitude</li>
+                }
+            </ul>
+        </div>
+        <h3>Danh sách Item</h3>
+        <div>
+            @if(Cameras!=null)
+            {
+                @foreach (var camera in Cameras)
+                {
+                    <ItemComponent Id="@camera.Id.ToString()" 
+                                   Name="@camera.Name" 
+                                   Icon="@camera.Icon" 
+                                   OnDragStart="StartDrag" />
+                }
+            }            
+        </div>
+        <div id="map"
+             ondrop="drop(event)"
+             ondragover="allowDrop(event)"
+             style="height: 600px; position: relative;">
+        </div>        
+    </Card>
+</PageContainer>
+
+@code {
+
+}

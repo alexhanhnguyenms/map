@@ -1,0 +1,43 @@
+﻿@page "/"
+@namespace OpenStreetMap.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OpenStreetMap</title>
+    <base href="~/" />
+    <link href="_content/AntDesign/css/ant-design-blazor.css" rel="stylesheet" />
+    <link href="_content/AntDesign.ProLayout/css/ant-design-pro-layout-blazor.css" rel="stylesheet" />
+    <link href="./css/site.css" rel="stylesheet" />
+    <link href="OpenStreetMap.styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />    
+</head>
+<body>
+    <app>
+        <component type="typeof(App)" render-mode="Server" />
+    </app>
+
+     <script type="text/javascript" src="@("https://unpkg.com/@antv/g2plot@2.4.17/dist/g2plot.min.js")"></script>
+    <script src="_content/AntDesign/js/ant-design-blazor.js"></script>
+    <script src="_content/AntDesign.Charts/ant-design-charts-blazor.js"></script>
+    <script src="_framework/blazor.server.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.0/signalr.min.js"></script> <!-- Thêm dòng này -->
+    <script src="~/js/event.js"></script>
+    <script src="~/js/drawPoint.js"></script>
+    <script src="~/js/drawline.js"></script>
+
+    <script src="js/map.js"></script>
+    @* <script src="~/js/draganddrop.js"></script> *@
+ @*    
+    <script src="~/js/mapInitializer.js"></script>
+    <script src="~/js/markerManager.js"></script>
+    <script src="~/js/eventManager.js"></script> *@
+</body>
+</html>

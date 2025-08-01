@@ -1,0 +1,17 @@
+﻿@code {
+    [Parameter] public string Id { get; set; }
+    [Parameter] public string Name { get; set; }
+    [Parameter] public string Icon { get; set; }
+    [Parameter] public EventCallback<string> OnDragStart { get; set; }
+
+    private void HandleDragStart(DragEventArgs e)
+    {
+        OnDragStart.InvokeAsync(Id); // Gọi callback với ID của item
+    }
+}
+
+<div draggable="true"
+     @ondragstart="HandleDragStart"
+     style="cursor: grab; padding: 5px;">
+    @Icon @Name
+</div>

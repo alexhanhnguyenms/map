@@ -1,0 +1,42 @@
+﻿.counter {
+    font-size: 20px;
+    color: blue;
+}
+.marker-title {
+    color: blue;
+    font-weight: bold;
+}
+
+.marker-capacity {
+    color: green;
+}
+
+.marker-cars-in {
+    color: orange;
+}
+
+.marker-cars-out {
+    color: red;
+}
+
+.marker-current {
+    color: purple;
+}
+
+.marker-occupancy {
+    color: brown;
+}
+.marker-adjustments {
+    color: teal; /* Màu cho số lần hiệu chỉnh */
+}
+
+.marker-last-adjusted {
+    color: darkviolet; /* Màu cho giờ hiệu chỉnh */
+}
+.custom-icon {
+    background-color: white;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}

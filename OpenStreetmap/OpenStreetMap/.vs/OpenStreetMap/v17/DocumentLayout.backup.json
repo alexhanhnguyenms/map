@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|c:\\data\\4 source\\2024\\openstreetmap\\openstreetmap\\wwwroot\\js\\event.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|solutionrelative:wwwroot\\js\\event.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|c:\\data\\4 source\\2024\\openstreetmap\\openstreetmap\\pages\\welcome.razor.drawline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|solutionrelative:pages\\welcome.razor.drawline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|c:\\data\\4 source\\2024\\openstreetmap\\openstreetmap\\wwwroot\\js\\drawline.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|solutionrelative:wwwroot\\js\\drawline.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|c:\\data\\4 source\\2024\\openstreetmap\\openstreetmap\\wwwroot\\js\\drawpoint.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|solutionrelative:wwwroot\\js\\drawpoint.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|c:\\data\\4 source\\2024\\openstreetmap\\openstreetmap\\wwwroot\\js\\map.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|solutionrelative:wwwroot\\js\\map.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|c:\\data\\4 source\\2024\\openstreetmap\\openstreetmap\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|c:\\data\\4 source\\2024\\openstreetmap\\openstreetmap\\pages\\welcome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|solutionrelative:pages\\welcome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|c:\\data\\4 source\\2024\\openstreetmap\\openstreetmap\\pages\\welcome.razor.drawpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C738A8B2-488E-4688-BA35-3D77EB63DF99}|OpenStreetMap.csproj|solutionrelative:pages\\welcome.razor.drawpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Welcome.razor.DrawPoint.cs",
+              "DocumentMoniker": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\Pages\\Welcome.razor.DrawPoint.cs",
+              "RelativeDocumentMoniker": "Pages\\Welcome.razor.DrawPoint.cs",
+              "ToolTip": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\Pages\\Welcome.razor.DrawPoint.cs",
+              "RelativeToolTip": "Pages\\Welcome.razor.DrawPoint.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:33:24.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welcome.razor.DrawLine.cs",
+              "DocumentMoniker": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\Pages\\Welcome.razor.DrawLine.cs",
+              "RelativeDocumentMoniker": "Pages\\Welcome.razor.DrawLine.cs",
+              "ToolTip": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\Pages\\Welcome.razor.DrawLine.cs \u2B24",
+              "RelativeToolTip": "Pages\\Welcome.razor.DrawLine.cs \u2B24",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:58:11.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Welcome.razor",
+              "DocumentMoniker": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\Pages\\Welcome.razor",
+              "RelativeDocumentMoniker": "Pages\\Welcome.razor",
+              "ToolTip": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\Pages\\Welcome.razor",
+              "RelativeToolTip": "Pages\\Welcome.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T02:09:24.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "drawLine.js",
+              "DocumentMoniker": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\wwwroot\\js\\drawLine.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\drawLine.js",
+              "ToolTip": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\wwwroot\\js\\drawLine.js \u2B24",
+              "RelativeToolTip": "wwwroot\\js\\drawLine.js \u2B24",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T08:45:36.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T08:43:42.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "drawPoint.js",
+              "DocumentMoniker": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\wwwroot\\js\\drawPoint.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\drawPoint.js",
+              "ToolTip": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\wwwroot\\js\\drawPoint.js",
+              "RelativeToolTip": "wwwroot\\js\\drawPoint.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T03:28:49.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "map.js",
+              "DocumentMoniker": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\wwwroot\\js\\map.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\map.js",
+              "ToolTip": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\wwwroot\\js\\map.js",
+              "RelativeToolTip": "wwwroot\\js\\map.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T04:06:30.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "3c2b2005-e93b-475e-a8d3-630ea7dfd0fc",
+        "Display": 1,
+        "X": 232,
+        "Y": 69,
+        "Width": 1062,
+        "Height": 957,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "event.js",
+              "DocumentMoniker": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\wwwroot\\js\\event.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\event.js",
+              "ToolTip": "C:\\Data\\4 Source\\2024\\OpenStreetmap\\OpenStreetMap\\wwwroot\\js\\event.js \u2B24",
+              "RelativeToolTip": "wwwroot\\js\\event.js \u2B24",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T08:43:08.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
